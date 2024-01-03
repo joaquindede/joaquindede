@@ -1,6 +1,8 @@
-### Hi there 👋
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<h1>Technologies</h1>
-</hr>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div align="center">
+   <img src="https://skillicons.dev/icons?i=ruby,bootstrap,html,css,vscode,github,git" />
+   <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb" /><br>
+</div>
